@@ -29,6 +29,4 @@
 #### Socials
 <p align="left"><a href="https://www.linkedin.com/in/jerrynguyen910" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
 
-### Github Activity
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jerry2005hn&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 [![Jerry's GitHub stats](https://github-readme-stats.vercel.app/api?username=jerry2005hn)](https://github.com/anuraghazra/github-readme-stats)
