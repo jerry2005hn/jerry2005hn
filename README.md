@@ -4,7 +4,6 @@
 
 * 🌍  I'm originally from Hanoi, Vietnam but now I'm studying at the University of Auckland in Auckland, New Zealand.
 * ✉️  You can contact me at [jerry2005hn@gmail.com](mailto:jerry2005hn@gmail.com)
-* 🤝  I'm open to collaborating on community service projects
 
 ### Skills
 
@@ -28,5 +27,3 @@
 
 #### Socials
 <p align="left"><a href="https://www.linkedin.com/in/jerrynguyen910" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
-
-[![Jerry's GitHub stats](https://github-readme-stats.vercel.app/api?username=jerry2005hn)](https://github.com/anuraghazra/github-readme-stats)
